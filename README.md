@@ -1,5 +1,6 @@
-# big-css-revision
-BIG CSS language to style an HTML documents repetition
+# big-reactJS-revision
+
+BIG JavaScript library for building user interfaces repetition
 
 <a href="./docs/reactjs.md">React js...</a><br/>
 <a href="./docs/create-react-app.md">Create react app...</a><br/>
